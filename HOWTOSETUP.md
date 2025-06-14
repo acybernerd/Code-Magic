@@ -10,7 +10,7 @@
 
 6.Wait for it to do its magic and once it says succecfully installed you can close the cmd promt
 
-7.Go to winrar.com
+7.Go to https://www.win-rar.com/start.html?&L=0
 
 8.Click download or buy (download recommended)
 
